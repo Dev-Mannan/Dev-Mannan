@@ -15,7 +15,18 @@
 
 - 🤝 I’m looking for help with **Getting a job in web3**
 
-- 👨‍💻 All of my projects are available at [https://dev-mannan.github.io/portfolio/](https://dev-mannan.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://dev-mannan.github.io/portfolio/](https://mannan-khan-7.netlify.app/)
+
+
+
+
+
+
+
+
+
+
+
 
 - 💬 Ask me about **react , solidity , Next js & IPFS**
 
