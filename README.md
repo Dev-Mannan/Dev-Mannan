@@ -17,7 +17,7 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+<img src="https://raw.githubusercontent.com/Dev-Mannan/Dev-Mannan/output/snake.svg" alt="Snake animation" /> 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dev-mannan&icon=0&color=1)](https://visitcount.itsvg.in)
 
