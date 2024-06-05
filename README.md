@@ -1,6 +1,17 @@
 # 💫 About Me:
 🔭 I’m currently working on : Web3 products<br>👯 I’m looking to collaborate on :  Startups & Company<br>🌱 I’m currently learning : Web3 + AI Integrating two stacks<br>💬 Ask me about : Web3 , Full stack , LLM tuning , Chatbots<br>⚡ Fun fact : rule no 1 we do not talk about "F C" 🤫<br><br>  check my portfolio : https://mannan-khan-7.netlify.app/
 
+# My Project
+
+<div style="padding:56.25% 0 0 0;position:relative;">
+    <iframe src="https://player.vimeo.com/video/953772068?badge=0&autopause=0&player_id=0&app_id=58479" 
+            frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" 
+            style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+            title="Untitled video - Made with Clipchamp">
+    </iframe>
+</div>
+<script src="https://player.vimeo.com/api/player.js"></script>
+
 
 ## 🌐 Socials:
 <div align="left">
